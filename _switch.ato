@@ -1,0 +1,6 @@
+"""Switch base."""
+
+
+component _Switch:
+    """Switch base."""
+    designator_prefix = "S"
